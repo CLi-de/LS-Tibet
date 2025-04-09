@@ -1,0 +1,17 @@
+# root
+*.xls
+*.csv
+*.txt
+*.xlsx
+*.xml
+*.pdf
+*.iml
+
+# folder
+tmp/
+checkpoint_dir/
+.idea/
+__pycache__/
+
+
+*~
